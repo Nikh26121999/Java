@@ -10,6 +10,14 @@ class Method
         c=a+b;
         System.out.println(c);
     }
+
+    void add(int i) {
+        throw new UnsupportedOperationException("Not supported yet.");
+    }
+
+    void add(int i) {
+        throw new UnsupportedOperationException("Not supported yet.");
+    }
 }
 class MethodNOIPANDOP
 {
