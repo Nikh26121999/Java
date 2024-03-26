@@ -1,8 +1,5 @@
-class MethodNOIPANDOP
+class Method
 {
-    public static void main(String[] args) {
-        
-    }
     void add()
     {
         int a;
@@ -12,5 +9,12 @@ class MethodNOIPANDOP
         b=20;
         c=a+b;
         System.out.println(c);
+    }
+}
+class MethodNOIPANDOP
+{
+    public static void main(String[] args) {
+        Method m=new Method();
+        m.add();
     }
 }
