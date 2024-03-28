@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class euclideanalgm
+class GCDEuclid
 {
     int findGCD(int m,int n)
     {

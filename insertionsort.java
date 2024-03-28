@@ -1,5 +1,5 @@
 
-public class Insertionsort {
+public class insertionsort {
 	void insertionsortdemo(int a[])
 	{
 		int item;
