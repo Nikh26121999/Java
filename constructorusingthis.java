@@ -1,5 +1,6 @@
 
-public class constructorusingthis {
+public class 
+ {
 	private String name;
 	private int salary;
 	private int id;
