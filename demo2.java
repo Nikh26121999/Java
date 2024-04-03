@@ -1,5 +1,3 @@
-package p1;
-
 public class demo2
 {
 	void display2()
