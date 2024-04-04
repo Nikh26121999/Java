@@ -1,11 +1,10 @@
+package p1;
 
 public class animalapp {
 	public static void main(String args[])
 	{
-		tiger t=new tiger();
-		System.out.println(t.name);
-		System.out.println(t.age);
-		System.out.println(t.gender);
+		animaldemo2 d2=new animaldemo2();
+		tiger t1=d2.display();
 	}
 
 }
