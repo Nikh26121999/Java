@@ -5,7 +5,7 @@ public class PolGeometry
         Circle c=new Circle();
         Square s=new Square();
         PolyDemo p=new PolyDemo();
-        p.accessShape(c);
-        p.accessShape(sq);
+        p.acceptShape(c);
+        p.acceptShape(sq);
     }
 }
